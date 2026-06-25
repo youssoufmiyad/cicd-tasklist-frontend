@@ -14,6 +14,7 @@
   "dependencies": {
     "@emnapi/core": "^1.11.1",
     "@emnapi/runtime": "^1.11.1",
+    "@sonar/scan": "^4.3.8",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },
